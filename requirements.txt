@@ -1,0 +1,7 @@
+streamlit
+pandas
+scikit-learn
+newspaper3k
+numpy
+scipy
+nltk
