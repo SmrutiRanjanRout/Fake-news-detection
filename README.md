@@ -12,6 +12,12 @@ This is a simple Python web app built using **Streamlit** to detect whether a ne
 pip install lxml[html_clean]
 pip install newspaper3k
 
+## Requirements
+```bash
+pip instal news
+
+```
+
 ## 🚀 How to Run
 
 ```bash
