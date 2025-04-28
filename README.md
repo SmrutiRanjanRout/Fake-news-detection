@@ -7,8 +7,13 @@ This is a simple Python web app built using **Streamlit** to detect whether a ne
 - PassiveAggressiveClassifier
 - Trained on `True.csv` and `Fake.csv` datasets
 
+## Requirements
+```bash
+pip instal news
+
+```
+
 ## 🚀 How to Run
 
 ```bash
-pip install -r requirements.txt
 streamlit run app.py
